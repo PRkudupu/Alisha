@@ -1,0 +1,40 @@
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Bot Application1.dll.config
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Bot Application1.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Bot Application1.pdb
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Autofac.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Chronic.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Newtonsoft.Json.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.Net.Http.Formatting.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.Web.Http.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.Web.Http.WebHost.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Autofac.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\Newtonsoft.Json.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.Net.Http.Formatting.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.Web.Http.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\System.Web.Http.WebHost.xml
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\obj\Debug\Bot Application1.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\obj\Debug\Bot Application1.pdb
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\bin\de-de\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\onedrive\documents\visual studio 2015\Projects\SampleBot\SampleBot\obj\Debug\SampleBot.csprojResolveAssemblyReference.cache

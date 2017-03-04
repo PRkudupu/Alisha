@@ -1,0 +1,40 @@
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Bot Application1.dll.config
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Bot Application1.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Bot Application1.pdb
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Autofac.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Chronic.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.Bot.Builder.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.Bot.Connector.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Newtonsoft.Json.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.Net.Http.Formatting.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.Web.Http.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.Web.Http.WebHost.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Autofac.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.Bot.Builder.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.Bot.Connector.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\Newtonsoft.Json.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.Net.Http.Formatting.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.Web.Http.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\System.Web.Http.WebHost.xml
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\de-de\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\obj\Debug\Alisha.csprojResolveAssemblyReference.cache
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\obj\Debug\Bot Application1.dll
+C:\Users\Prath\OneDrive\Documents\Visual Studio 2015\Projects\Alisha\Alisha\obj\Debug\Bot Application1.pdb
